@@ -17,6 +17,10 @@ MIT License - Have fun folks
 
 Pic
 
+![alt tag](https://github.com/LifeOnAFarm/Dublin_Bus_Dash/master/pics/dash.png)
+
+![alt tag](https://raw.githubusercontent.com/LifeOnAFarm/Dublin_Bus_Dash/master/pics/dash.png)
+
 ![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 Link
