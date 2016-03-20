@@ -1,3 +1,5 @@
+![alt tag](https://raw.githubusercontent.com/LifeOnAFarm/Dublin_Bus_Dash/master/pics/dash.png)
+
 ## Synopsis
 
 This an simple application that uses a Amazon Dash button to reading out the due times of a dublin bus stop 
@@ -14,14 +16,6 @@ Let people know how they can dive into the project, include important links to t
 
 MIT License - Have fun folks
 
-
-Pic
-
-![alt tag](https://github.com/LifeOnAFarm/Dublin_Bus_Dash/master/pics/dash.png)
-
-![alt tag](https://raw.githubusercontent.com/LifeOnAFarm/Dublin_Bus_Dash/master/pics/dash.png)
-
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 Link
 
