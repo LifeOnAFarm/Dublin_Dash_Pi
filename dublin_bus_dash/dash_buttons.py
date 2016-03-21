@@ -1,5 +1,6 @@
 from scapy.all import *
 import dublin_bus
+
 __author__ = 'Seamus de Cleir'
 
 """
@@ -26,7 +27,6 @@ def arp_display(pkt):
                 print("Pushed Olay")
                 dublin_bus.olay_press()
 
-            # Returns the MAC address of an unknown ARP probe
             else:
                 print("ARP Probe from unknown device: " + pkt[ARP].hwsrc)
 
