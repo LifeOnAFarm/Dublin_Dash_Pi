@@ -13,7 +13,7 @@ This works using Python 3
 
 
 
-I made this project because I often find it a pain using the Dublin Bus app. This way I only need to press one simple button and the next bus time is read out to me. I also managed to get a Dash button and wanted to make some sort of projectt with it.
+I made this project because I often find it a pain using the Dublin Bus app. This way I only need to press one simple button and the next bus time is read out to me. I also managed to get my hand on a Dash button and wanted to make some sort of project with it.
 
 
 
