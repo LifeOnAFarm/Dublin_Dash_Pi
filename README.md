@@ -5,7 +5,7 @@
 
 
 
-This is a simple application that uses a Amazon Dash button to read out the due times of a dublin bus stop. Changes need to be made in the python files to pick which bus stop you want read out, the MAC address of your dash button and the absolute path names of your sound files. In a future update I'll add the choice of which bus is arriving at the bus stop.
+This is a simple application that uses a Amazon Dash button to read out the due times of a dublin bus stop. Changes need to be made in the python files to pick which bus stop you want read out, the MAC address of your dash button, the number of the bus you want found and the absolute path names of your sound files.
 This works using Python 3
  on the Raspberry Pi.
 
